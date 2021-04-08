@@ -1,0 +1,21 @@
+.logo {
+  width: 55px;
+}
+
+.temperature {
+  margin-bottom: 10px;
+  color: #263238;
+  font-family: cursive;
+  text-align: center;
+}
+
+.temp {
+  font-size: xx-large;
+}
+
+
+.humidity, .wind_speed {
+  display: flex;
+  font-family: cursive;
+  color: #263238;
+}
