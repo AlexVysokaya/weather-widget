@@ -1,3 +1,5 @@
+# Виджет погоды
+Для просмотра работы приложение перейдите по [ссылке](https://alexvysokaya.github.io/weather-widget/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
