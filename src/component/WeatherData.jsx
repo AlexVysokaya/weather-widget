@@ -5,7 +5,7 @@ import humidity from '../img/Humidity.png'
 
 export const WeatherData = (props) => {
 
-  return <div className='data'>
+  return <div className={style.data}>
     <div className={style.temperature}>
       <div className={style.temp}>{props.temp ? `${props.temp > 0 ? '+' + props.temp : props.temp}°C` : '0°C'} </div>
       <div className={style.feels_like}>Ощущается как: {props.feels_like ? `${props.feels_like > 0 ? '+' + props.feels_like : props.feels_like}°C` : '0°C'} </div>

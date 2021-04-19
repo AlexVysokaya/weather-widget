@@ -1,3 +1,9 @@
+.data {
+  color: #263238;
+  font-family: inherit;
+  font-weight: 600;
+}
+
 .logo {
   width: 55px;
   height: 55px;
@@ -5,8 +11,6 @@
 
 .temperature {
   margin-bottom: 10px;
-  color: #263238;
-  font-family: cursive;
   text-align: center;
 }
 
@@ -17,6 +21,4 @@
 
 .humidity, .wind_speed {
   display: flex;
-  font-family: cursive;
-  color: #263238;
 }

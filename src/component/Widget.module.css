@@ -23,7 +23,8 @@
 .description .text {
   color: beige;
   font-size: xx-large;
-  font-family: cursive;
+  font-family: ProximaNova;
+  font-weight: 800;
   text-align: center;
 }
 
